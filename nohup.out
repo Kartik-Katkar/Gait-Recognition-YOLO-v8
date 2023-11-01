@@ -1,0 +1,75 @@
+YOLOv5 🚀 2023-9-7 Python-3.10.12 torch-2.0.1+cu117 CUDA:0 (Tesla V100-PCIE-16GB, 16151MiB)
+
+Fusing layers... 
+YOLOv5s summary: 213 layers, 7225885 parameters, 0 gradients
+Adding AutoShape... 
+2023-09-07 16:36:48.021420: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-07 16:36:48.862801: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-07 16:36:48.862900: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-07 16:36:48.862910: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+conf={'WORK_PATH': '/home/user2/IPCV/GaitRecognitionSystem', 'CUDA_VISIBLE_DEVICES': '0', 'ALLOWED_EXTENSIONS': {'flv', 'mov', 'wmv', 'avi', 'mp4'}, 'UPLOAD_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload', 'TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload/tmp', 'STATIC_TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/static/tmp', 'DATASETS_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/model/gait/datasets/real-pkl-64', 'PRE_METHOD': 'rvm', 'ext_frame_size_threshold': 800, 'cut_img_pixel_threshold': 800}
+ * Serving Flask app 'main'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+YOLOv5 🚀 2023-9-7 Python-3.10.12 torch-2.0.1+cu117 CUDA:0 (Tesla V100-PCIE-16GB, 16151MiB)
+
+Fusing layers... 
+YOLOv5s summary: 213 layers, 7225885 parameters, 0 gradients
+Adding AutoShape... 
+2023-09-07 16:38:04.742541: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-07 16:38:05.581218: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-07 16:38:05.581315: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-07 16:38:05.581325: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+conf={'WORK_PATH': '/home/user2/IPCV/GaitRecognitionSystem', 'CUDA_VISIBLE_DEVICES': '0', 'ALLOWED_EXTENSIONS': {'avi', 'mov', 'mp4', 'wmv', 'flv'}, 'UPLOAD_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload', 'TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload/tmp', 'STATIC_TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/static/tmp', 'DATASETS_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/model/gait/datasets/real-pkl-64', 'PRE_METHOD': 'rvm', 'ext_frame_size_threshold': 800, 'cut_img_pixel_threshold': 800}
+ * Serving Flask app 'main'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+YOLOv5 🚀 2023-9-7 Python-3.10.12 torch-2.0.1+cu117 CUDA:0 (Tesla V100-PCIE-16GB, 16151MiB)
+
+Fusing layers... 
+YOLOv5s summary: 213 layers, 7225885 parameters, 0 gradients
+Adding AutoShape... 
+2023-09-07 16:38:21.442199: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-07 16:38:22.277772: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-07 16:38:22.277873: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-07 16:38:22.277883: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+conf={'WORK_PATH': '/home/user2/IPCV/GaitRecognitionSystem', 'CUDA_VISIBLE_DEVICES': '0', 'ALLOWED_EXTENSIONS': {'flv', 'mov', 'wmv', 'avi', 'mp4'}, 'UPLOAD_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload', 'TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload/tmp', 'STATIC_TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/static/tmp', 'DATASETS_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/model/gait/datasets/real-pkl-64', 'PRE_METHOD': 'rvm', 'ext_frame_size_threshold': 800, 'cut_img_pixel_threshold': 800}
+ * Serving Flask app 'main'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+YOLOv5 🚀 2023-9-7 Python-3.10.12 torch-2.0.1+cu117 CUDA:0 (Tesla V100-PCIE-16GB, 16151MiB)
+
+Fusing layers... 
+YOLOv5s summary: 213 layers, 7225885 parameters, 0 gradients
+Adding AutoShape... 
+2023-09-09 10:13:58.208748: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-09 10:13:59.042881: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-09 10:13:59.042983: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-09 10:13:59.042994: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+conf={'WORK_PATH': '/home/user2/IPCV/GaitRecognitionSystem', 'CUDA_VISIBLE_DEVICES': '0', 'ALLOWED_EXTENSIONS': {'mov', 'wmv', 'mp4', 'flv', 'avi'}, 'UPLOAD_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload', 'TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload/tmp', 'STATIC_TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/static/tmp', 'DATASETS_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/model/gait/datasets/real-pkl-64', 'PRE_METHOD': 'rvm', 'ext_frame_size_threshold': 800, 'cut_img_pixel_threshold': 800}
+ * Serving Flask app 'main'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+YOLOv5 🚀 2023-9-7 Python-3.10.12 torch-2.0.1+cu117 CUDA:0 (Tesla V100-PCIE-16GB, 16151MiB)
+
+Fusing layers... 
+YOLOv5s summary: 213 layers, 7225885 parameters, 0 gradients
+Adding AutoShape... 
+2023-09-13 07:07:23.680974: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX2 AVX512F FMA
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+2023-09-13 07:07:24.508128: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer.so.7'; dlerror: libnvinfer.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-13 07:07:24.508228: W tensorflow/compiler/xla/stream_executor/platform/default/dso_loader.cc:64] Could not load dynamic library 'libnvinfer_plugin.so.7'; dlerror: libnvinfer_plugin.so.7: cannot open shared object file: No such file or directory; LD_LIBRARY_PATH: /home/user2/.local/lib/python3.10/site-packages/cv2/../../lib64:
+2023-09-13 07:07:24.508237: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Cannot dlopen some TensorRT libraries. If you would like to use Nvidia GPU with TensorRT, please make sure the missing libraries mentioned above are installed properly.
+conf={'WORK_PATH': '/home/user2/IPCV/GaitRecognitionSystem', 'CUDA_VISIBLE_DEVICES': '0', 'ALLOWED_EXTENSIONS': {'mov', 'flv', 'mp4', 'wmv', 'avi'}, 'UPLOAD_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload', 'TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/data/upload/tmp', 'STATIC_TMP_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/static/tmp', 'DATASETS_FOLDER': '/home/user2/IPCV/GaitRecognitionSystem/model/gait/datasets/real-pkl-64', 'PRE_METHOD': 'rvm', 'ext_frame_size_threshold': 800, 'cut_img_pixel_threshold': 800}
+ * Serving Flask app 'main'
+ * Debug mode: off
+Address already in use
+Port 5000 is in use by another program. Either identify and stop that program, or start the server with a different port.
