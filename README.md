@@ -54,7 +54,7 @@ Make sure you have the following installed on your system:
 Run the gait recognition script:
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 Feel free to customize the instructions based on the specific requirements of your project.
