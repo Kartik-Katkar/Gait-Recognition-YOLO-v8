@@ -49,6 +49,8 @@ Make sure you have the following installed on your system:
     pip install -r requirements.txt
     ```
 
+6. If you wish to Download a pretrained model, you can download it from [Download Model](https://github.com/jackhanyuan/GaitRecognitionSystem/releases/download/1.1/output.zip) make sure to unzip the compressed file to `model/gait/output`
+
 #### Usage
 
 Run the gait recognition script:
